@@ -2,7 +2,7 @@
 
 Python implementation of Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 
-<img src="https://i.imgur.com/3lh5zBW.gif" title="Demo">
+<img src="https://i.imgur.com/0l7c18H.gif" title="Demo">
 
 ## Table of Contents
 - [Intro](#intro)
